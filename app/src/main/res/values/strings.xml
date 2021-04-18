@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Adreana_Spinner</string>
+    <string-array name="bulan">
+        <item>Januari</item>
+        <item>Febuari</item>
+        <item>Maret</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Agustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </string-array>
+
+    <string-array name="planets_array">
+        <item>Bumi</item>
+        <item>Merkurius</item>
+        <item>Jupiter</item>
+        <item>Venus</item>
+    </string-array>
+</resources>
